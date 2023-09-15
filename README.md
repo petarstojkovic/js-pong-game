@@ -1,1 +1,1 @@
-Simple Pong Game made with Vanilla JS
+Simple Pong Game made with Vanilla JS :)
